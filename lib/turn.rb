@@ -28,4 +28,4 @@ def valid_move?(board, index)
       return ture 
     end
   end
-  
+end
