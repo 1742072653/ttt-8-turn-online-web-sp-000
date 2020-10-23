@@ -25,7 +25,7 @@ def valid_move?(board, index)
     if array[ind] == " " || array[ind ] == "" || array[ind] == nil
       return false 
     else 
-      return ture 
+      return true 
     end
   end
 end
